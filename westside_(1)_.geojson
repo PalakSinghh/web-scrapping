@@ -1,0 +1,893 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.30759,
+                    -5.11893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.87723,
+                    18.51914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.813069096,
+                    18.959775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.234315,
+                    16.713393909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.80273,
+                    18.61665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.858713842359,
+                    19.115092036042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.840539991316,
+                    19.025045008876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.79206,
+                    18.55862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.768852116213,
+                    18.456213147095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.80014,
+                    19.46891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.841769862984,
+                    18.940253287814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8364,
+                    19.22005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.71912,
+                    18.60373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.99829,
+                    19.15551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.962284089766,
+                    21.159340991334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9069,
+                    19.06887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.90678,
+                    17.65809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.89657,
+                    18.47674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.852334370471,
+                    19.22859691397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.8055,
+                    18.59771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.075107585,
+                    -22.499209945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.981915,
+                    19.242083331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.975581748307,
+                    19.242261525817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.910679998766,
+                    17.666064981681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.841089994573,
+                    18.520209979508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.764199059424,
+                    20.005754915592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.01569,
+                    19.02073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.074613354,
+                    21.15768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.88713,
+                    19.08511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.93251,
+                    18.50927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.917193089819,
+                    19.098963317564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.835439980419,
+                    19.189439988318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.909560001413,
+                    18.557739992886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.96585,
+                    19.20224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.908287152826,
+                    19.115526296593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.83127,
+                    18.92804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:full": "ADDRESS:102 - Cosmos Plaza, Jp Road, D.N.Nagar, Andheri West, Mumbai - 400053, Maharashtra",
+                "addr:country": "India",
+                "@spider": "chain",
+                "phones": "PHONE:7045371725",
+                "chain_id": "301792",
+                "chain_name": "Westside",
+                "brand": "Westside",
+                "operatingHours": "Monday 11:00 AM TO 9:00 PM, Tuesday 11:00 AM TO 9:00 PM, Wednesday 11:00 AM TO 9:00 PM, Thursday 11:00 AM TO 9:00 PM, Friday 11:00 AM TO 9:00 PM, Saturday 11:00 AM TO 9:00 PM, Sunday 11:00 AM TO 9:00 PM",
+                "store_url": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "website": "https://www.westside.com/apps/s/storelocator/maharashtra/mumbai/cosmos-plaza-andheri-west-d-n-nagar-w111?type=Westside",
+                "ref": "875cf5abf41f4ce79d679947bbd9f8f1",
+                "name": "Westside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.83146,
+                    19.14135
+                ]
+            }
+        }
+    ]
+}

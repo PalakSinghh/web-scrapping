@@ -1,0 +1,856 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "c0cef7f79cad4ae99b4802cea2e4b3b9",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21- VIVAN SQUARE, SATTELITE",
+                "phones": "29999605",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21, VIVAN SQUARE, JODHPUR VILLAGE RD, SURYAPOOJA BLOCK B, SATELLITE, AHMEDABAD, GUJARAT",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.526062,
+                    23.026409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "1bb58c4bc2414d809dd4cce4a5f887ce",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21- ALPHA AMRITSAR",
+                "phones": "0183-5023913",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 STORE:MALL OF AMRITSAR, UNIT NO.18A, 19, 20 & 21, GROUND FLOOR, MBM FARM, GT ROAD, AMRITSAR, PUNJAB-143001",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.907402,
+                    31.61965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "0f7349884a2f4c3e9760b3a29aff7164",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21- ORION MALL",
+                "phones": "8022682293",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 STORE: ORION MALL, BRIGADE GATEWAY, SHOP NO.G-09,#21/6 DR RAJKUMAR ROAD,MALLESHWARAM, RAJAJINAGAR,BANGALORE 560055",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.555,
+                    13.01134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "a42e2d30bb954109a93e83f9da5aec00",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21- EXPRESS AVENUE CHENNAI",
+                "phones": "8925477629",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 STORE: EXPRESS AVENUE MALL, SHOP # S48/S54, GROUND FLOOR, ROYAPETTAH, CHENNAI - 600014",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.263489,
+                    13.05872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "d4e0031579bf440bb8177b4fcdfccef4",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21- DLF PLACE, SAKET",
+                "phones": "011-45058383",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21,128,129,129A,276-81, GROUND FLOOR & FIRST FLOOR. DLF AVENUE, SAKET 110017",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.216721,
+                    28.527901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "19ee84a7dfda4bce8b3f228076140441",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21- FORUM HYDERABAD",
+                "phones": "040-30534121",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "\"FOREVER 21 STORE: FORUM SUJANA MALL, UNIT NO 10 TO 13 &108, KUKATPALLY,HYDERBAD, TELANGANA 500072\"",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.388863,
+                    17.48399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "45e82f33f8ec4a919da9a82ac6d5d1c6",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21- C21 MALL INDORE",
+                "phones": "7314082121",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 STORE,CENTURY 21 MALL, GROUND FLOOR, SCHEME NO 54 A,B-ROAD,SHOP # 11/12/14/15, FIRST FLOOR, SHOP # 11/12/14,VIJAY NAGAR, AB ROAD, INDORE-452010",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.894379,
+                    22.74387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "381fede2b5444013af69b0a119246c34",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21- SAHARAGUNJ LUCKNOW",
+                "phones": "522-4236039",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "SHOP NO.2,3,6 & 7, GROUND FLOOR & FIRST FLOOR, SAHARAGANJ MALL, HAZRATGANJ, LUCKNOW, UTTAR PRADESH",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.946404,
+                    26.855749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "cbc7640ccfa14b8f8e506ad91bc0882e",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21- NCM MOHALI",
+                "phones": "0172-6703376",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 STORE: VR PUNJAB, SHOP NO - 70, 71,72,73 - UGF, NH 21, CHANDIGARH,KHARAR ROAD, MOHALI, PUNJAB \u2013 160055\"",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.678482,
+                    30.73707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "52bd7a86df20419388b85693d89eddb7",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21- MALL OF INDIA",
+                "phones": "1206229526",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "\"FOREVER 21 STORE: DLF MALL OF INDIA C-116, GF MALL OF INDIA PLOT 3 SEC, SECTOR 18, NOIDA, UTTAR PRADESH 201301\"",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.320778,
+                    28.566799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "5f28374e84ba4c23a13379756b5881f2",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 THE PAVILLION MALL PUNE",
+                "phones": "2066421107",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 STORE:THE PAVILLION, ICC PUNE, NEXT TO JW MERRIOT HOTEL, SENAPATI BAPAT ROAD, SHIVAJINAGAR PUNE- 411016",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.829727,
+                    18.53401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "f60469264d2f45c9933622aa7274472c",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 VEGA MALL SILIGURI",
+                "phones": "9800785000",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 STORE: VEGA CIRCLE MALL, SHOP NO. 05, UG FLOOR, 3RD MILE, SEVOKE ROAD, SILIGURI- 734008",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.438889,
+                    26.752171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "6f0d6dad28ca4841b9bb90aba1e7cb2a",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21- WTP JAIPUR",
+                "phones": "1414923744",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 STORE : WORLD TRADE PARK MALL JAIPUR,JAWAHAR LAL NEHRU MARG, D-BLOCK, LOWER GF, A1 TOWER, NORTH BLOCK,MALVIYA NAGAR, JAIPUR, RAJASTHAN 302017",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.804962,
+                    26.85347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "ea6c8e4337174389ae620460e6e250ad",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 BARNALA",
+                "phones": "9875901147",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 SHOP NO -21 HG EATON PLAZA BATINDA BARNALA ROAD NH-7 NEAR ZAILDHAR DHABA VILL. HANDIYA DISTRICT BARNLA-148107",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.484573,
+                    30.32942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "a2fdda76abd04d80ba69bfdf87c19368",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 BHATINDA",
+                "phones": "9875901153",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER -21NH -7 FACTORY OUTLET , SHOP NO 161 & 162 BARNALA HIGHWAY ROAD - NH -07 OPPOSITE WALMART , MC DONALDS & KFC VILLAGE - BHUCHO KHURD POST OFFICE - BHUCHO MANDI PIN CODE - 151101, DISTRICT BATHINDA PUNJAB",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.063553,
+                    30.223869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "bb5c50bff2c2470684f338477926aa24",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 ZIRAKPUR",
+                "phones": "176250912",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 .SHOP NO 5,6 UPPER GROUND FLOOR M/S . SS ESTATE ZIRAKAPUR ( SS EMPORIA PLAZA) NH -21 , SINGHAPURA CHOWK , ZIRAKAPUR AMBALA HIGHWAY , ZIRAKPUR PUNJAB -140603",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.82325,
+                    30.628269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "0dad304a49024c76aa3649c0a7c1b7c4",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 GRAND WALK LUDHIANA",
+                "phones": "1612935085",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREEVER 21 G.S MAJESTIC DEVELOPERS PVT LTD GF SHOP NO -6 ,FF OF SHOP NO 5&6 GRAND WALK MALL FEROZEPUR ROAD LUDHIANA -141012",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.791069,
+                    30.88711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "b5123b6630f14d4fa2248af9a068b008",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 ITANAGAR",
+                "phones": "8730975161",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 , M/S AAAA ASSOCIATES NEAR HIBRO COMPLEX, D SECTOR, ITANAGAR, ARUNACHAL PRADESH-791111",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.62175,
+                    27.094839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "8215a190eddc46cbb093e48e8f21420b",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 IMPHAL",
+                "phones": "9233075769",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 -M/S- BNB TRADING THANGMEIBAND KHOYATHONG ROAD OPP PLANET FASHION IMPHAL WEST MANIPUR-795004",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.939217,
+                    24.8176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "65dc73a4cd7c4d1c9f83787ea1bb08de",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 SARATH CITY",
+                "phones": "4068218249",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER-21 STORE UNIT 16 18- UGF, BESIDE LIFE STYLE, SARATH CITY CAPITAL MALL, KOTHAGUDA VILLAGE, SERILINGAMPALLY MANDAL, R. R. DISTRICT, HYDERABAD, TELANGANA. 500084",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.364098,
+                    17.457041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "fa42283af0be4b9faf704708e5532e04",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 PHOENIX PALASSIO",
+                "phones": "0522-6789077",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "G85, GROUND FLOOR, PHOENIX PALASSIO, LUCKNOW",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.012711,
+                    26.80887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "4ed325bcd7d04cc281d34294bae3e06e",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 BHARTIA CITY MALL",
+                "phones": "7356999018",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "F21- UNIT NO 21&21A GF KH NO 6/2, BHARTIA MALL , THANISANDRA MAIN ROAD , BANGLORE -560064 KARNATAKA ",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.643288,
+                    13.08339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "a9134ffa5c09417fa8f159905cdeaa9b",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 DIMAPUR",
+                "phones": "98634 09107",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "CITY TOWER, NEXT TO BHARAT PETROLEUM PETROL PUMP, OPP. HDFC BANK. DIMAPUR, NAGALAND",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.720383,
+                    25.911579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "51f56df6405a4f35af80ed45841d4e10",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 HALDWANI",
+                "phones": "9690989664",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREEVER 21 OLD KHURANA COMPLEX AMBIKA VIHAR 2/57 ,MAIN NAINITAL ROAD HALDWANI-263139 UTTARAKHAND",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.533012,
+                    29.23789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "5fc0b8179be647b18fa856465eb81ce5",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 STAR MALL GURGAON",
+                "phones": "0124-4169607",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21, SM 001, UGF DLF STAR MALL, SECTOR 30, GURGAON, 122001",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.052719,
+                    28.461531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "94906bfa0e2a46808aaa88c5b0e63bba",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21-GUWAHATI",
+                "phones": "03613177506",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER-21-ABC BHANAGARAH GS ROAD GUWHATI P.S GUWHATI DIST -KAMRUP METRO PIN-781005",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.7715,
+                    26.162399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "8614d6ad8bd9417b96b7d551f409f73f",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 GANGTOK",
+                "phones": "8509898167",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER -21LAL BAZAR FLYOVER BRIDGE, OPPOSITE TO SUPER MARKET, NEAR TAXI STOP, ARITHANG, GANGTOK, SIKKIM 737101",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.611557,
+                    27.32794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "51692f20dc6e4713af66609997247f5d",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 SIRSA",
+                "phones": "9818189197",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21, SHOP NO. 3, PHASE 2, OF BSG MART NH-9, FACTORY OUTLET, NEAR GD GOENKA SCHOOL, HISSAR ROAD, SIRSA, 125055",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.128609,
+                    29.526501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "d267c949fa5b4a8b9627176a90421a34",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21-AIZWAL",
+                "phones": "9681377517",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21, PPRG+83V, RAMHLUN SOUTH, CHALTLANG, AIZAWL, MIZORAM",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.725159,
+                    23.74086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "3b46e21b837e44108d0b972ef3c97cab",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 DIMAPUR",
+                "phones": "9681377517",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 -PATTA NO 475 DAG NO-673 UNDER MOUZA NO .2 BLOCK NO -4 PO AND PS DIMAPUR NEAR CITY TOWER DIST- DIMAPUR -797112",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.720383,
+                    25.911579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "06a9a14a7b3b474f8434f2ebfe8ad289",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21- PALLADIUM CHENNAI",
+                "phones": "9589626826",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER -21 PALLADIUM MALL G-27 ,142 VELACHERY ROAD VELACHERY CHENNAI TAMIL NADU -600042",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.217751,
+                    12.99254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "43372e1cc1ee45f9ae6064d09de4e9be",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 ARIA MALL GURGAON",
+                "phones": "7982868010",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER -21 AIRIA MALL- GF 28/29,AIRIA MALL, SOHNA ROAD, SEC 68,GURGRAM- 122101.",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.052383,
+                    28.383499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "4b4b72506c5242b38f260412dc3de081",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 PMC KURLA",
+                "phones": "7777088996",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 STORE: PHOENIX MARKET CITY, UG 86/87 LAL BAHADUR SHASTRI MARG, KURLA WEST, MUMBAI 400070.",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.888062,
+                    19.08559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "b7906e265b2f4404aab95b274a58a93a",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21 PASIGHAT",
+                "phones": "9681377517",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER-21 DOMA COMPLEX , BANSKOTA , MAIN MARKET AREA , NEAR PANE HOTEL , PASIGHAT \u2013 791102 ",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.33477,
+                    28.062599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "2237047949ec4d2085e1de42982de396",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21-JALANDHAR",
+                "phones": "9888847720",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21 . OPPOSITE TO STARBUCKS ADJACENT RARE RABBIT MODEL TOWN JALANDHAR ,144001",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.5783,
+                    31.30418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "75937b139c8e425eba66f7433b239492",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21-Jodhpur",
+                "phones": "9555333586",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER -21 SHOP NO 32 GF MEGA MALL JODHPUR NH 65 RAJASTHAN PIN - 342005",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "573af419453d4344ab6eaa661a81b690",
+                "chain_name": "Forever21",
+                "brand": "Forever21",
+                "chain_id": 4196,
+                "name": "F21-Palladium Ahemdabad",
+                "phones": "9821162734",
+                "website": "https://www.Forever21.in/content/storelocator?source=footer",
+                "store_url": "https://www.Forever21.in/content/storelocator?source=footer",
+                "addr:country": "India",
+                "addr:full": "FOREVER 21, VIVAN SQUARE, JODHPUR VILLAGE RD, SURYAPOOJA BLOCK B, SATELLITE, AHMEDABAD, GUJARAT",
+                "@spider": "chain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.526062,
+                    23.026409
+                ]
+            }
+        }
+    ]
+}
